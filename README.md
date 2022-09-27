@@ -35,6 +35,3 @@ To run, follow these steps:
 - JavaScript (DOM)
 - HTML
 - CSS
-- Node.js
-- Express.js
-- Mongodb
