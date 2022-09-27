@@ -1,13 +1,6 @@
 # ESPN-CricInfo
 Cricinfo website in this website you can watch the live matches and news related to cricket. This website easy to use anyone can access this easily.
 
-<table>
-<tr>
-<td>Cricinfo website in this website you can watch the live matches and news related to cricket.
-  This website easy to use anyone can access this easily.
-</td>
-</tr>
-</table>
 Home Page
 
  ![Screenshot (657)](https://user-images.githubusercontent.com/97455988/166236498-785ff7f1-049a-4150-bb28-2f5d437623f6.png)
