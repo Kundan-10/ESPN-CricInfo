@@ -19,18 +19,6 @@ Team Page
 
 
 
-## [Getting Started]
-
-### Execution..
-Want to run in your local Machine? Great!
-
-To run, follow these steps:
-
-- Clone my repository `https://github.com/Prashantch15/cricinfo_project`
-- Open the `Index.html` on Live server
-- Then you can Navigate through other pages from Home page like `racism.html`, `rss.html` etc
-
-
 ## Built with 
 - JavaScript (DOM)
 - HTML
